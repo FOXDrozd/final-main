@@ -1,4 +1,4 @@
-module github.com/foxdrozd/hello-golang
+module github.com/foxdrozd/final-main
 
 go 1.25.3
 
